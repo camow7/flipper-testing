@@ -1,0 +1,10 @@
+UP: /ext/subghz/Dmax_l_6.sub
+DOWN: /ext/subghz/Dmax_ul_6.sub
+LEFT: /ext/subghz/Dmax_l_6.sub
+RIGHT: /ext/subghz/Dmax_l_6.sub
+OK: /ext/subghz/Dmax_l_6.sub
+ULABEL: LOCK
+DLABEL: UNLOCK
+LLABEL: LOCK
+RLABEL: LOCK
+OKLABEL: LOCK

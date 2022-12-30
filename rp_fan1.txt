@@ -1,0 +1,10 @@
+UP: /ext/subghz/rp_f1_low.sub
+DOWN: /ext/subghz/rp_f1_high.sub
+LEFT: /ext/subghz/rp_f1_off.sub
+RIGHT: /ext/subghz/rp_f1_med.sub
+OK: /ext/subghz/rp_f1_light.sub
+ULABEL: Fan Low
+DLABEL: Fan High
+LLABEL: Fan Off
+RLABEL: Fan Medium
+OKLABEL: Light
